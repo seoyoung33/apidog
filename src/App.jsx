@@ -6,7 +6,7 @@ import './App.css'
 function App() {
   return (
     <>
-      <h1>APP</h1>
+      <h1 basename="apidog">APP</h1>
       <Dog3 />
       <hr />
       <Dog2 />
